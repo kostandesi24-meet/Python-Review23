@@ -30,4 +30,4 @@ def simiularaty(dect1,dect2):
 		for j in 5:
 			if x == dect2["hashtags"][j]:
 				c=c+1
-	print("the percentage of simiularaty : " + c*4)
+	print("the percentage of simiularaty : " + c*4 +"%")
